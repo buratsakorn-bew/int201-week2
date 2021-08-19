@@ -1,7 +1,7 @@
 //variables, funtion names, and operators are all case sensitive
 //Statements in ECMAScript are terminated by a semicolon
 //Even semicolon is not required but not recommended to omit the semicolon
-
+//test commit s
 let num = 5;
 let Num = 'This is not a number';
 console.log('num is ' + num);
